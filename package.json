@@ -1,0 +1,15 @@
+{
+  "name": "@frewmamo/easynode",
+  "version": "2.0.0",
+  "description": "EasyChallenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Frew M",
+  "license": "MIT",
+  "dependencies": {
+    "@linclark/pkg": "^2.0.0"
+  },
+  "repository": "https://github.com/frewmamo/NodeWeek2"
+}

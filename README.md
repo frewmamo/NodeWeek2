@@ -1,0 +1,1 @@
+This is the easy challenge for week2 of Node
